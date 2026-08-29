@@ -6,7 +6,7 @@
 # ============================================================
 
 # --- Your ship ---
-SHIP_NAME = "The Horizon"
+SHIP_NAME ="The Horizon"
 CREW_DESCRIPTION = "A band of explorers seeking fortune at the edge of the galaxy"
 
 # --- Starting resources ---
