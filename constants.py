@@ -15,5 +15,8 @@ STARTING_HULL = 100
 
 # --- Galaxy ---
 GALAXY_SIZE = 8
-USE_CUSTOM_PLANETS = False
-PLANETS = []
+
+USE_CUSTOM_PLANETS = True
+PLANETS = ['Praslin', 'Bora Bora', 'Maui', 'Santorini', 'Bali', 'Maldives', 'Seychelles', 'Fiji']
+
+print(len(PLANETS))
